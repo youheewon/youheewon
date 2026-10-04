@@ -105,6 +105,18 @@ ABAP · CBO · IMG Configuration · Integration Test
 
 <br><br>
 
+### ⚡ SAP RAP-based SD O2C Project
+
+**Personal Project · SAP S/4HANA · RAP**
+
+CDS View · RAP · OData · SOAP API <br>
+Sales Order → Delivery → Billing Process Integration
+
+Built an SD O2C flow to explore SAP RAP hands-on. <br>
+Extended the process with OData and SOAP APIs where RAP alone was not sufficient.
+
+<br><br>
+
 ### 🛴 PM SafeLine
 
 **KT Digital Talent Social Problem-Solving Project**
